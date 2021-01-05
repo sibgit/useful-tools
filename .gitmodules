@@ -1,0 +1,3 @@
+[submodule "glitter-cursor"]
+	path = glitter-cursor
+	url = https://github.com/sibgit/glitter-cursor.git
