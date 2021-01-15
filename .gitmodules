@@ -2,3 +2,6 @@
 	path = glitter-cursor
 	url = https://github.com/sibgit/glitter-cursor.git
 	branch = main
+[submodule "great-style"]
+	path = great-style
+	url = https://github.com/rmylonas/great-style.git
